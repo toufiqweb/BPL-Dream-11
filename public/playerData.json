@@ -37,7 +37,7 @@
     "battingStyle": "left-handed",
     "bowlingStyle": "left-arm orthodox spin",
     "price": 1250000,
-    "img": "https://example.com/shakib.jpg"
+    "img": "https://i.ibb.co.com/twQVPwbk/shakib-glass-25-01-2026.jpg"
   },
   {
     "name": "Jasprit Bumrah",
@@ -47,7 +47,7 @@
     "battingStyle": "right-handed",
     "bowlingStyle": "right-arm fast",
     "price": 1150000,
-    "img": "https://example.com/bumrah.jpg"
+    "img": "https://i.ibb.co.com/QF80KPkN/mimf3vas-jasprit-bumrah-625x300-16-March-26.webp"
   },
   {
     "name": "Rashid Khan",
@@ -57,7 +57,7 @@
     "battingStyle": "right-handed",
     "bowlingStyle": "right-arm leg spin",
     "price": 1000000,
-    "img": "https://example.com/rashid.jpg"
+    "img": "https://i.ibb.co.com/93sKd64j/8mvq5v38-rashid-khan-625x300-26-June-24.webp"
   },
   {
     "name": "David Warner",
@@ -67,7 +67,7 @@
     "battingStyle": "left-handed",
     "bowlingStyle": "none",
     "price": 1050000,
-    "img": "https://example.com/warner.jpg"
+    "img": "https://i.ibb.co.com/qFnrnWYt/Australia.webp"
   },
   {
     "name": "Kane Williamson",
@@ -77,7 +77,7 @@
     "battingStyle": "right-handed",
     "bowlingStyle": "right-arm off spin",
     "price": 1080000,
-    "img": "https://example.com/williamson.jpg"
+    "img": "https://i.ibb.co.com/PGkdBFz6/0f07aad0-67ce-11f0-8dbd-f3d32ebd3327.jpg"
   },
   {
     "name": "Joe Root",
@@ -87,7 +87,7 @@
     "battingStyle": "right-handed",
     "bowlingStyle": "right-arm off spin",
     "price": 1070000,
-    "img": "https://example.com/root.jpg"
+    "img": "https://i.ibb.co.com/RMv4555/Getty-Images-2188210826.webp"
   },
   {
     "name": "Steve Smith",
@@ -97,7 +97,7 @@
     "battingStyle": "right-handed",
     "bowlingStyle": "right-arm leg spin",
     "price": 1120000,
-    "img": "https://example.com/smith.jpg"
+    "img": "https://i.ibb.co.com/vxMDR7P0/779p0q78-steve-smith-afp-625x300-29-January-25.webp"
   },
   {
     "name": "Hardik Pandya",
@@ -107,7 +107,7 @@
     "battingStyle": "right-handed",
     "bowlingStyle": "right-arm fast-medium",
     "price": 1090000,
-    "img": "https://example.com/hardik.jpg"
+    "img": "https://i.ibb.co.com/PZDDFBxX/Gk-Drhkha-AAAI3-Qt.jpg"
   },
   {
     "name": "Trent Boult",
@@ -117,7 +117,7 @@
     "battingStyle": "right-handed",
     "bowlingStyle": "left-arm fast",
     "price": 1040000,
-    "img": "https://example.com/boult.jpg"
+    "img": "https://i.ibb.co.com/0V90n7k5/2018-02-03-22-23-14-AUSv-NZL-T20-AUS-innings-SCG-39533156665.jpg"
   },
   {
     "name": "Muttiah Muralitharan",
@@ -127,7 +127,7 @@
     "battingStyle": "right-handed",
     "bowlingStyle": "right-arm off spin",
     "price": 1400000,
-    "img": "https://example.com/murali.jpg"
+    "img": "https://i.ibb.co.com/WN9H6LG6/Muttiah-Muralitharan-1-scaled.webp"
   },
   {
     "name": "AB de Villiers",
@@ -137,7 +137,7 @@
     "battingStyle": "right-handed",
     "bowlingStyle": "right-arm medium",
     "price": 1350000,
-    "img": "https://example.com/abd.jpg"
+    "img": "https://i.ibb.co.com/qF98vX3g/4454.webp"
   },
   {
     "name": "Lasith Malinga",
@@ -147,6 +147,6 @@
     "battingStyle": "right-handed",
     "bowlingStyle": "right-arm fast",
     "price": 1110000,
-    "img": "https://example.com/malinga.jpg"
+    "img": "https://i.ibb.co.com/TMDSS4hZ/lasith-malinga-who-didnt-attract-any-takers-in-ipl-2018-auction-will-be-mumbai-indians-bowling-mento.webp"
   }
 ]

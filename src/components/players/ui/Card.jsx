@@ -3,9 +3,13 @@ import { FaFlag, FaUser } from "react-icons/fa";
 
 const Card = ({ player }) => {
   return (
-    <div className="card bg-base-100  shadow-sm">
+    <div className="card bg-base-100  shadow-sm p-5 border border-gray-100">
       <figure>
-        <img src={player.img} alt="Shoes" />
+        <img
+          className="h-80 w-full object-cover rounded-lg"
+          src={player.img}
+          alt={player.name}
+        />
       </figure>
       <div className="card-body">
         <div className="flex items-center gap-2">
