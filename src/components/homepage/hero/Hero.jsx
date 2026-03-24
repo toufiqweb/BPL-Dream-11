@@ -5,7 +5,7 @@ import bannerMain from "../../../assets/banner-main.png"
 const Hero = () => {
   return (
     <div
-      className="hero h-[50vh] bg-black container  mx-auto rounded-2xl overflow-hidden mt-10"
+      className="hero min-h-[30vh] md:min-h-[40vh] lg:min-h-[50vh] bg-black container  mx-auto rounded-2xl overflow-hidden mt-10 w-11/12"
       style={{
         backgroundImage:
           `url(${heroBg})`,
@@ -15,8 +15,8 @@ const Hero = () => {
       <div className="hero-content text-neutral-content text-center">
         <div className=" flex flex-col justify-center items-center space-y-5">
             <img src={bannerMain} alt="" />
-          <h1 className="mb-5 text-5xl font-bold">Assemble Your Ultimate Dream 11 Cricket Team</h1>
-          <p className="mb-5 text-2xl text-gray-400 ">
+          <h1 className="mb-5 text-xl md:text-3xl lg:text-5xl font-bold">Assemble Your Ultimate Dream 11 Cricket Team</h1>
+          <p className="mb-5 text-lg md:text-xl lg:text-2xl text-gray-400 ">
             Beyond Boundaries Beyond Limits
           </p>
           <span className="border rounded-xl border-[#E7FE29] p-1.5">

@@ -8,8 +8,8 @@ const Navbar = () => {
       <div className="navbar-start">
         <img className="w-12 h-12" src={cricketLogo} alt="" />
       </div>
-      <div className="navbar-end hidden lg:flex">
-        <ul className="menu menu-horizontal px-1 flex gap-4">
+      <div className="navbar-end flex">
+        <ul className="menu menu-horizontal px-1 hidden lg:flex  gap-4">
           <li>
             <a>Home</a>
           </li>
