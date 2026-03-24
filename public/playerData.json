@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Virat Kohli",
+    "country": "India",
+    "rating": 9.5,
+    "role": "batter",
+    "battingStyle": "right-handed",
+    "bowlingStyle": "none",
+    "price": 1200000,
+    "img": "https://example.com/virat.jpg"
+  },
+  {
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "rating": 9.2,
+    "role": "batter",
+    "battingStyle": "right-handed",
+    "bowlingStyle": "none",
+    "price": 1100000,
+    "img": "https://example.com/babar.jpg"
+  },
+  {
+    "name": "Ben Stokes",
+    "country": "England",
+    "rating": 9.0,
+    "role": "all-rounder",
+    "battingStyle": "left-handed",
+    "bowlingStyle": "right-arm fast-medium",
+    "price": 1300000,
+    "img": "https://example.com/stokes.jpg"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "rating": 9.1,
+    "role": "all-rounder",
+    "battingStyle": "left-handed",
+    "bowlingStyle": "left-arm orthodox spin",
+    "price": 1250000,
+    "img": "https://example.com/shakib.jpg"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "rating": 9.4,
+    "role": "bowler",
+    "battingStyle": "right-handed",
+    "bowlingStyle": "right-arm fast",
+    "price": 1150000,
+    "img": "https://example.com/bumrah.jpg"
+  },
+  {
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "rating": 9.3,
+    "role": "bowler",
+    "battingStyle": "right-handed",
+    "bowlingStyle": "right-arm leg spin",
+    "price": 1000000,
+    "img": "https://example.com/rashid.jpg"
+  },
+  {
+    "name": "David Warner",
+    "country": "Australia",
+    "rating": 8.9,
+    "role": "batter",
+    "battingStyle": "left-handed",
+    "bowlingStyle": "none",
+    "price": 1050000,
+    "img": "https://example.com/warner.jpg"
+  },
+  {
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "rating": 9.0,
+    "role": "batter",
+    "battingStyle": "right-handed",
+    "bowlingStyle": "right-arm off spin",
+    "price": 1080000,
+    "img": "https://example.com/williamson.jpg"
+  },
+  {
+    "name": "Joe Root",
+    "country": "England",
+    "rating": 9.1,
+    "role": "batter",
+    "battingStyle": "right-handed",
+    "bowlingStyle": "right-arm off spin",
+    "price": 1070000,
+    "img": "https://example.com/root.jpg"
+  },
+  {
+    "name": "Steve Smith",
+    "country": "Australia",
+    "rating": 9.3,
+    "role": "batter",
+    "battingStyle": "right-handed",
+    "bowlingStyle": "right-arm leg spin",
+    "price": 1120000,
+    "img": "https://example.com/smith.jpg"
+  },
+  {
+    "name": "Hardik Pandya",
+    "country": "India",
+    "rating": 8.8,
+    "role": "all-rounder",
+    "battingStyle": "right-handed",
+    "bowlingStyle": "right-arm fast-medium",
+    "price": 1090000,
+    "img": "https://example.com/hardik.jpg"
+  },
+  {
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "rating": 8.9,
+    "role": "bowler",
+    "battingStyle": "right-handed",
+    "bowlingStyle": "left-arm fast",
+    "price": 1040000,
+    "img": "https://example.com/boult.jpg"
+  },
+  {
+    "name": "Muttiah Muralitharan",
+    "country": "Sri Lanka",
+    "rating": 9.6,
+    "role": "bowler",
+    "battingStyle": "right-handed",
+    "bowlingStyle": "right-arm off spin",
+    "price": 1400000,
+    "img": "https://example.com/murali.jpg"
+  },
+  {
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "rating": 9.5,
+    "role": "batter",
+    "battingStyle": "right-handed",
+    "bowlingStyle": "right-arm medium",
+    "price": 1350000,
+    "img": "https://example.com/abd.jpg"
+  },
+  {
+    "name": "Lasith Malinga",
+    "country": "Sri Lanka",
+    "rating": 9.2,
+    "role": "bowler",
+    "battingStyle": "right-handed",
+    "bowlingStyle": "right-arm fast",
+    "price": 1110000,
+    "img": "https://example.com/malinga.jpg"
+  }
+]
