@@ -7,7 +7,7 @@
     "battingStyle": "right-handed",
     "bowlingStyle": "none",
     "price": 1200000,
-    "img": "https://example.com/virat.jpg"
+    "img": "https://i.ibb.co.com/6R3sz26z/kohli231007.jpg"
   },
   {
     "name": "Babar Azam",
@@ -17,7 +17,7 @@
     "battingStyle": "right-handed",
     "bowlingStyle": "none",
     "price": 1100000,
-    "img": "https://example.com/babar.jpg"
+    "img": "https://i.ibb.co.com/Xft4K0nB/Babar-Azam-1.avif"
   },
   {
     "name": "Ben Stokes",
@@ -27,7 +27,7 @@
     "battingStyle": "left-handed",
     "bowlingStyle": "right-arm fast-medium",
     "price": 1300000,
-    "img": "https://example.com/stokes.jpg"
+    "img": "https://i.ibb.co.com/3yRhqfCr/84522a0c15e2730e8137ef6162579936.png"
   },
   {
     "name": "Shakib Al Hasan",

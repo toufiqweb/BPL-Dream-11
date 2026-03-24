@@ -14,7 +14,7 @@ function App() {
       <Navbar/>
       <Hero/>
 
-      <Suspense fallback = {<span className="loading loading-infinity loading-xl"></span>}>
+      <Suspense fallback = {<div className=" flex justify-center items-st h-[50vh]"><span className="loading loading-infinity loading-xl"></span></div>}>
         <Players fetchPlayersData = {fetchPlayersData}/>
       </Suspense>
     </>

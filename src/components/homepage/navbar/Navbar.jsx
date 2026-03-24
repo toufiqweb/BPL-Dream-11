@@ -4,7 +4,7 @@ import dollarImg from "../../../assets/dollar_1.png"
 
 const Navbar = () => {
   return (
-    <div className="navbar bg-base-100 shadow-sm px-10">
+    <div className="navbar bg-base-100   container mx-auto">
       <div className="navbar-start">
         <img className="w-12 h-12" src={cricketLogo} alt="" />
       </div>
