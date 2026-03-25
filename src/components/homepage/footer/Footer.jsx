@@ -14,7 +14,7 @@ const Footer = () => {
         <img src={footerImg} alt="" />
       </div>
 
-      <footer className="footer sm:footer-horizontal p-10">
+      <footer className="footer  sm:footer-horizontal p-10">
         <nav>
           <h6 className="text-lg font-bold text-white">About Us</h6>
           <p className=" text-gray-400">

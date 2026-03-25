@@ -41,6 +41,10 @@ const Players = ({ fetchPlayersData, coins, setCoins }) => {
       ) : (
         <SelectedPlayers selectedPlayers={selectedPlayers}  setSelectedPlayers = {setSelectedPlayers} coins={coins} setCoins={setCoins}/>
       )}
+
+       <span className="border rounded-xl border-black/50 py-4 px-2">
+            <button className="rounded-lg p-2 text-black  font-bold bg-[#E7FE29]">Add More Player</button>
+          </span>
     </div>
   );
 };
